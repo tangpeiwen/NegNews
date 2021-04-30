@@ -86,7 +86,7 @@ readability-lxml==0.7.1
 regex==2020.4.4
 requests==2.18.4
 requests-unixsocket==0.1.5
-rsa==4.0
+rsa==4.7
 Scrapy==2.0.1
 SecretStorage==2.3.1
 selenium==3.141.0
