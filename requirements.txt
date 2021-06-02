@@ -99,7 +99,7 @@ timeout-decorator==0.4.1
 tqdm==4.45.0
 Twisted==17.9.0
 uritemplate==3.0.1
-urllib3==1.22
+urllib3==1.26.5
 vine==1.3.0
 virtualenv==20.0.17
 w3lib==1.21.0
