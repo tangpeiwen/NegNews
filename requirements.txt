@@ -21,7 +21,7 @@ content-search==0.1
 cryptography==2.1.4
 cssselect==1.1.0
 distlib==0.3.0
-Django==2.2.3
+Django==2.2.27
 django-simple-history==2.10.0
 en-news-content-crawler==0.1
 filelock==3.0.12
